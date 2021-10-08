@@ -1,0 +1,22 @@
+{
+  "schedules": [
+    {
+      "id": 2,
+      "topic": "MEETING A",
+      "date": "2020-03-02",
+      "status": "0"
+    },
+    {
+      "topic": "REDUX",
+      "date": "2021-10-01",
+      "status": "1",
+      "id": 10
+    },
+    {
+      "topic": "REDUX SAGA",
+      "date": "2021-09-29",
+      "status": "1",
+      "id": 11
+    }
+  ]
+}
